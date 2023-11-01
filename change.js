@@ -1,0 +1,1 @@
+document.querySelector("#gen-nav-commerce-header-v2 > div.pre-l-header-container > header > div.pre-l-wrapper.mauto-sm.d-sm-flx > div.pre-acct-btn-group.pt2-sm.pt3-lg.d-sm-ib.ta-sm-r.flx-gro-sm-1.flx-gro-lg-0")
